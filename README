@@ -8,31 +8,17 @@
 
 5- Setting up persisent undo across al files
 
-We will store all files in $HOME/.vim/undodir
-First, we check if undodir already exists (call to mkdir -p)
-Then we set the undodir to be that dir
-Finally we set the undofile5- Setting up persisent undo across al files
-
-We will store all files in $HOME/.vim/undodir
-First, we check if undodir already exists (call to mkdir -p)
-Then we set the undodir to be that dir
-Finally we set the undofile5- Setting up persisent undo across al files
-
-We will store all files in $HOME/.vim/undodir
-First, we check if undodir already exists (call to mkdir -p)
-Then we set the undodir to be that dir
-Finally we set the undofile5- Setting up persisent undo across al files
-
-We will store all files in $HOME/.vim/undodir
-First, we check if undodir already exists (call to mkdir -p)
-Then we set the undodir to be that dir
-Finally we set the undofile5- Setting up persisent undo across al files
-
-We will store all files in $HOME/.vim/undodir
 First, we check if undodir already exists (call to mkdir -p)
 Then we set the undodir to be that dir
 Finally we set on undofile (saving undo history to a file)
 
-6- Pluggins:
+6- MANUAL PLUGGINS
+We will store plugins at $HOME/.vim/pack/plugins/start
 First line: loading all plugins
 Then we load all help files for all plugins
+
+First of all we will install NEERDTree plugin manually (https://github.com/scrooloose/nerdtree.git)
+
+git clone https://github.com/scrooloose/nerdtree.git $HOME/.vim/pack/plugins/start
+
+Once we restart vim NEERDTree will be available
