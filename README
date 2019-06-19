@@ -1,0 +1,38 @@
+1- Enabling syntax highlighting and file type based indentation
+
+2- Some indenting settings
+
+3- Setting swp directory insted of creating swp file in every dir
+
+4- Fixing usually backspace behaveiour
+
+5- Setting up persisent undo across al files
+
+We will store all files in $HOME/.vim/undodir
+First, we check if undodir already exists (call to mkdir -p)
+Then we set the undodir to be that dir
+Finally we set the undofile5- Setting up persisent undo across al files
+
+We will store all files in $HOME/.vim/undodir
+First, we check if undodir already exists (call to mkdir -p)
+Then we set the undodir to be that dir
+Finally we set the undofile5- Setting up persisent undo across al files
+
+We will store all files in $HOME/.vim/undodir
+First, we check if undodir already exists (call to mkdir -p)
+Then we set the undodir to be that dir
+Finally we set the undofile5- Setting up persisent undo across al files
+
+We will store all files in $HOME/.vim/undodir
+First, we check if undodir already exists (call to mkdir -p)
+Then we set the undodir to be that dir
+Finally we set the undofile5- Setting up persisent undo across al files
+
+We will store all files in $HOME/.vim/undodir
+First, we check if undodir already exists (call to mkdir -p)
+Then we set the undodir to be that dir
+Finally we set on undofile (saving undo history to a file)
+
+6- Pluggins:
+First line: loading all plugins
+Then we load all help files for all plugins
